@@ -12,6 +12,10 @@ Modifications:
 
 ![Cover.png](https://github.com/hdzdesigns/The-Bugbu-Remix/blob/master/Pictures/Cover.png)
 
+Thank you @rolls17 for all the support through the build along with all the discord members.
+
+Origin and Attribution: https://github.com/Rolls17/BugBu
+
 Discord Chat: https://discord.gg/kHFhCXZnxb
 
 Preview: https://www.youtube.com/watch?v=aXq7XMQ8wdc
