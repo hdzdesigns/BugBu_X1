@@ -1,6 +1,6 @@
 # The Bugbu X1 - Elevating the Budget BambuLab P1 Killer with Enhanced Features
 
-Meet the Bugbu Remix, a dynamic evolution of the BugBu 210 printer, conceived by the creative mind of @rolls17. My remix is driven by the vision to expand the printer's capabilities while maintaining its core essence. As we embark on this journey, we extend our gratitude to @rolls17 and the collaborative spirits within our Discord community for their unwavering support and guidance.
+Meet the Bugbu X1, a dynamic evolution of the BugBu 210 printer, conceived by the creative mind of @rolls17. My remix is driven by the vision to expand the printer's capabilities while maintaining its core essence. As we embark on this journey, we extend our gratitude to @rolls17 and the collaborative spirits within our Discord community for their unwavering support and guidance.
 
 Modifications:
 
